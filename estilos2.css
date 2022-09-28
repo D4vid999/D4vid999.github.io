@@ -118,7 +118,15 @@ transition: .3s ease-in-out all;
 .boton.cuatro:hover::after{
     top: 0px;
 }
-
+.nombres{
+    color: lightgreen;
+    position: absolute;
+    top: 200px;
+    left: 390px;
+    width: 700px;
+    height: 200px;
+    font-family: txt2;
+}
 
 
 
